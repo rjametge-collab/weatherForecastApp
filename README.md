@@ -32,13 +32,3 @@ npx expo start
 - Axios
 - OpenWeatherMap API
 
-## Structure
-
-src/components:
-Reusable UI components
-
-src/services:
-API communication
-
-App.js:
-Main application
